@@ -1,0 +1,5 @@
+what we have to remember!
+
+1. useSelector
+2. useDispatch : state의 값을 변경할 수 있는 action을 호출할 수 있는 방법
+3. useNavigate
